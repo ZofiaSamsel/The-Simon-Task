@@ -1,6 +1,3 @@
-# The-Simon-Task
-Procedure created for the Simon task experiment.  
-
 # Simon effect
 The Simon effect states that people respond faster and more accurately if the stimulus and the response features (e.g. the side on which the button is located) coincide.
 
