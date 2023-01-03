@@ -6,4 +6,4 @@ The Simon effect states that people respond faster and more accurately if the st
 2. One of the two words "left" or "right" on the left or right side appears on the screen.
 3. The subject has to press one of the keys, e.g. Q (for left) and P (for right). The person's task is to press the key corresponding to the meaning of the word regardless of where it appears.
 
-The program is written in Python.
+The program was written in Python (using PsychoPy library) and it collected result files for each participant.
